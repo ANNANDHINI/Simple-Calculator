@@ -2,12 +2,19 @@
 Project: Simple Calculator
 Description
 Create a basic calculator that can perform operations like addition, subtraction, multiplication, and division.
+
 This project will help you practice using basic input/output functions and handling errors gracefully.
+
 Skills
+
 Python basics
+
 Conditional statements
+
 Functions
+
 How It Works
+
 Define Operations: Functions are defined for each arithmetic operation (addition, subtraction, multiplication, and division).
 
 Error Handling: The divide function includes basic error handling to avoid division by zero.
